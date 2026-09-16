@@ -1,0 +1,17 @@
+{
+  "name": "MediBridge — Understand Your Lab Results",
+  "short_name": "MediBridge",
+  "description": "Instantly understand your lab report — fully offline, on any device. OCR + plain-language explanation, no uploads.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e9688",
+  "theme_color": "#0e9688",
+  "lang": "en",
+  "categories": ["health", "medical", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
